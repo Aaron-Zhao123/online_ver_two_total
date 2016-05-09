@@ -1,0 +1,602 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/aaron/verilog/Online_ver_two/add_hd/src_adder
+vadd_control
+Z0 !s110 1462826989
+!i10b 1
+!s100 F_eBOF>UGL3e7]E[R2On_3
+IW0CU8D?X9XTef]dF8;GI53
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d/home/aaron/verilog/Online_ver_two/Newton
+w1460100560
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/add_control.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/add_control.v
+L0 1
+Z3 OV;L;10.4b;61
+r1
+!s85 0
+31
+Z4 !s108 1462826989.000000
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/add_control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/add_control.v|
+!i113 1
+Z5 o-work work
+vcomputation_control_v2
+R0
+!i10b 1
+!s100 UBO:hffm8T:SGQTEG>TL;1
+IciV;K_D]BMVE30iXK[XHO0
+R1
+R2
+w1462804737
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/computation_control_v2.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/computation_control_v2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/computation_control_v2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/computation_control_v2.v|
+!i113 1
+R5
+vcomputation_control_v2_div
+Z6 !s110 1462826988
+!i10b 1
+!s100 >@NBmddh_<FFXJna^V4eX2
+I:@o8ceGhOc?R:PggbE2jR2
+R1
+R2
+w1462818939
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/computation_control_v2.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/computation_control_v2.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1462826988.000000
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/computation_control_v2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/computation_control_v2.v|
+!i113 1
+R5
+vD_FF
+R0
+!i10b 1
+!s100 ^k:hUk>MgoDS;H>Je>7X03
+IZjEm3mKZomOSSMGC]]czH2
+R1
+R2
+w1459858363
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/D_ff_arb_delay.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/D_ff_arb_delay.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/D_ff_arb_delay.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/D_ff_arb_delay.v|
+!i113 1
+R5
+n@d_@f@f
+vD_flipflop
+R6
+!i10b 1
+!s100 ^YGKY4VS^?Fc3Bbace4cZ0
+I[7Wdli?igP_A0_A5N?8^U3
+R1
+R2
+w1450851898
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_add/D_flipflop.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_add/D_flipflop.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_add/D_flipflop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_add/D_flipflop.v|
+!i113 1
+R5
+n@d_flipflop
+vDivider_v2
+R6
+!i10b 1
+!s100 a9;ol66NYm@>F2V0@hAlz0
+Il=YkMeAKIek3hHnRYeMmd3
+R1
+R2
+w1462826085
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/Divider_v2.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/Divider_v2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/Divider_v2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/Divider_v2.v|
+!i113 1
+R5
+n@divider_v2
+vfour_bits_adder
+R0
+!i10b 1
+!s100 9nE]E2f9nM8P4gHji:3f33
+I6A;GY;bQ4n:oiHz`c4:<:0
+R1
+R2
+w1459933111
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/four_bits_adder.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/four_bits_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/four_bits_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/four_bits_adder.v|
+!i113 1
+R5
+vfour_bits_parallel_adder
+R0
+!i10b 1
+!s100 :<@GH=7T6^0ia:6Rn_aFW2
+I9of>?iQM8P@:Kng6WQ0]b2
+R1
+R2
+w1460360754
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/four_bits_parallel_adder.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/four_bits_parallel_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/four_bits_parallel_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/four_bits_parallel_adder.v|
+!i113 1
+R5
+vfull_adder
+R0
+!i10b 1
+!s100 fmgAdKozm0iQm:=b77TN[2
+IQdS2eB`<h34ozlbYNzIRK0
+R1
+R2
+Z8 w1459472902
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/full_adder.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/full_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/full_adder.v|
+!i113 1
+R5
+vgenerate_CA_reg_v2
+R0
+!i10b 1
+!s100 jb66UDgIjFa4bNNe;DTlo1
+IFYJ_^0;D35HPAZ9L9Zi402
+R1
+R2
+w1462804289
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/generate_CA_reg_ver_two.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/generate_CA_reg_ver_two.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/generate_CA_reg_ver_two.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/generate_CA_reg_ver_two.v|
+!i113 1
+R5
+ngenerate_@c@a_reg_v2
+vgenerate_d_reg
+R6
+!i10b 1
+!s100 4b`]DgBBZ<2gJ12Bb6L331
+I@Dn5d;2HOP[cW5T7G=;2g1
+R1
+R2
+w1462817672
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/generate_d_reg.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/generate_d_reg.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/generate_d_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/generate_d_reg.v|
+!i113 1
+R5
+vgenerate_q_reg
+R0
+!i10b 1
+!s100 5FDomkDchTaaZF<c;zm183
+I4O8^D2]SA;1FfF8fEUh_20
+R1
+R2
+w1462818963
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/generate_q_reg.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/generate_q_reg.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/generate_q_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/generate_q_reg.v|
+!i113 1
+R5
+vMultiplier_v2
+R0
+!i10b 1
+!s100 ;O1Kna[DA5iRSzUW]L>jL1
+ImlBNcTA:nlcjB=je`O<iX0
+R1
+R2
+w1462794184
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/Multiplier_v2.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/Multiplier_v2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/Multiplier_v2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/Multiplier_v2.v|
+!i113 1
+R5
+n@multiplier_v2
+vNewton
+R0
+!i10b 1
+!s100 4ezTYTIN6LXgm5mR^GNBf2
+I:6H72]:UoBJYWHOKj;LZf2
+R1
+R2
+w1462826986
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/Newton.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/Newton.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/Newton.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/Newton.v|
+!i113 1
+R5
+n@newton
+von_line_adder_block
+R0
+!i10b 1
+!s100 iam6ekI`KZ3``=Z9h1>2I2
+I^l87=K9OhT>3eiHUG_ONo0
+R1
+R2
+R8
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/on_line_adder_block.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/on_line_adder_block.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/on_line_adder_block.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/on_line_adder_block.v|
+!i113 1
+R5
+vOnline_adder_hd
+R6
+!i10b 1
+!s100 gT4M;L0787nGF:BIoTEl`3
+ICkP[_?mJU4R[7D`j;53<B1
+R1
+R2
+w1462570412
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_add/add_ver_two.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_add/add_ver_two.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_add/add_ver_two.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_add/add_ver_two.v|
+!i113 1
+R5
+n@online_adder_hd
+vram_dp_ar_aw
+!s110 1462826990
+!i10b 1
+!s100 D2ZJ>NVl9S[AHfBVUcW2l1
+IdgzzmEn=EfVRfHdlXVDUT0
+R1
+R2
+w1462530276
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/ram_dp_ar_aw.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/ram_dp_ar_aw.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/ram_dp_ar_aw.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/ram_dp_ar_aw.v|
+!i113 1
+R5
+vSDVM_v2
+R0
+!i10b 1
+!s100 o_ljDlhgBmhmdaLRZ1eJA2
+I0ZIIWKC;]oW1z@nVOFHTK3
+R1
+R2
+w1462804933
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/SDVM_v2.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/SDVM_v2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/SDVM_v2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/SDVM_v2.v|
+!i113 1
+R5
+n@s@d@v@m_v2
+vSDVM_v2_d
+R0
+!i10b 1
+!s100 QeWUS0zM4nz4S58:>hQPh1
+IgPkg9[4e>;JMUONjJFMYP0
+R1
+R2
+Z9 w1462371222
+Z10 8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/SDVM_v2.v
+Z11 F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/SDVM_v2.v
+L0 68
+R3
+r1
+!s85 0
+31
+R4
+Z12 !s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/SDVM_v2.v|
+Z13 !s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/SDVM_v2.v|
+!i113 1
+R5
+n@s@d@v@m_v2_d
+vSDVM_v2_q
+R0
+!i10b 1
+!s100 GAMo@dn<MOUc_M=^iJ40D0
+IXIGYjk:_RSCn`C<5_0a`b3
+R1
+R2
+R9
+R10
+R11
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R12
+R13
+!i113 1
+R5
+n@s@d@v@m_v2_q
+vsingle_clk_ram_64bits
+R0
+!i10b 1
+!s100 d^EoLjQ__?SNDVWe[Ho2Y1
+IZMXRRY`3VFA@>GJgoZ_ed3
+R1
+R2
+w1459829919
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/single_clk_ram_64bits.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/single_clk_ram_64bits.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/single_clk_ram_64bits.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/single_clk_ram_64bits.v|
+!i113 1
+R5
+vsyn_fifo
+R0
+!i10b 1
+!s100 S>;ZmC4U?eDLn5`foT]2c2
+I`85lOBK8oVbo_V^GgX==z3
+R1
+R2
+w1462527972
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/FIFO.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/FIFO.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/FIFO.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/FIFO.v|
+!i113 1
+R5
+vtestbench
+R6
+!i10b 1
+!s100 7>MBG5zCn]2A_WC]3MIKJ3
+Ijh:@[]`NP?BEA@8_[42[F3
+R1
+R2
+w1459766749
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_add/testbench.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_add/testbench.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_add/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_add/testbench.v|
+!i113 1
+R5
+vtestbench_newton
+R0
+!i10b 1
+!s100 :LkX4lNDV=nB4QS?R=WH`3
+IVimDJdG]<R;mWIR40T:l>1
+R1
+R2
+w1462527986
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/testbench_newton.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/testbench_newton.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/testbench_newton.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/testbench_newton.v|
+!i113 1
+R5
+vV_frac_bits_v2
+R0
+!i10b 1
+!s100 AK9BJClMc22I50S0PL?TH3
+IaWmU4_?Hn43QE5_BDCiIC0
+R1
+R2
+w1462123310
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/V_frac_bits_v2.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/V_frac_bits_v2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/V_frac_bits_v2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/V_frac_bits_v2.v|
+!i113 1
+R5
+n@v_frac_bits_v2
+vv_frac_logic
+R0
+!i10b 1
+!s100 mAGg6jmX7BZXhIKFk3R[Y1
+Ia4NAOJf[EYm7j`kzbUbGK3
+R1
+R2
+Z14 w1462826201
+Z15 8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/V_value_logic.v
+Z16 F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/V_value_logic.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+Z17 !s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/V_value_logic.v|
+Z18 !s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/V_value_logic.v|
+!i113 1
+R5
+vv_int_logic
+R0
+!i10b 1
+!s100 LN4X4???Pk09L8UFGb;DB0
+In7@EOG=:To8dibOc]=kYU3
+R1
+R2
+R14
+R15
+R16
+L0 92
+R3
+r1
+!s85 0
+31
+R4
+R17
+R18
+!i113 1
+R5
+vV_upper_bits_v2
+R0
+!i10b 1
+!s100 8oNPNK1DClEbZ@<R1k@XO3
+IQ_41QS;zh2neBR3la=5:f3
+R1
+R2
+w1461880539
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/V_upper_bits_v2.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/V_upper_bits_v2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/V_upper_bits_v2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/V_upper_bits_v2.v|
+!i113 1
+R5
+n@v_upper_bits_v2
+vw_value_logic
+R0
+!i10b 1
+!s100 OhWAc00bH3f3AFa`3clz73
+IJIg@P0ze>WJXGfQC_i47W3
+R1
+R2
+w1462739457
+8/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/W_value_logic.v
+F/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/W_value_logic.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/W_value_logic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/W_value_logic.v|
+!i113 1
+R5

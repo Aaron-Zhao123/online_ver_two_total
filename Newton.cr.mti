@@ -1,0 +1,236 @@
+/home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/computation_control_v2.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/computation_control_v2.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module computation_control_v2
+
+Top level modules:
+	computation_control_v2
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/computation_control_v2.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/computation_control_v2.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module computation_control_v2_div
+
+Top level modules:
+	computation_control_v2_div
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/testbench_newton.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/testbench_newton.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module testbench_newton
+
+Top level modules:
+	testbench_newton
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/generate_d_reg.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/generate_d_reg.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module generate_d_reg
+
+Top level modules:
+	generate_d_reg
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/ram_dp_ar_aw.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/ram_dp_ar_aw.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module ram_dp_ar_aw
+
+Top level modules:
+	ram_dp_ar_aw
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/FIFO.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_newton/FIFO.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module syn_fifo
+
+Top level modules:
+	syn_fifo
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/on_line_adder_block.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/on_line_adder_block.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module on_line_adder_block
+
+Top level modules:
+	on_line_adder_block
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/four_bits_adder.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/four_bits_adder.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module four_bits_adder
+
+Top level modules:
+	four_bits_adder
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/Multiplier_v2.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/Multiplier_v2.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Multiplier_v2
+
+Top level modules:
+	Multiplier_v2
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/single_clk_ram_64bits.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/single_clk_ram_64bits.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module single_clk_ram_64bits
+
+Top level modules:
+	single_clk_ram_64bits
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_add/D_flipflop.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_add/D_flipflop.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module D_flipflop
+
+Top level modules:
+	D_flipflop
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/Divider_v2.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/Divider_v2.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Divider_v2
+
+Top level modules:
+	Divider_v2
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_add/testbench.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_add/testbench.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/four_bits_parallel_adder.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/four_bits_parallel_adder.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module four_bits_parallel_adder
+
+Top level modules:
+	four_bits_parallel_adder
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/V_upper_bits_v2.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/V_upper_bits_v2.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module V_upper_bits_v2
+
+Top level modules:
+	V_upper_bits_v2
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/D_ff_arb_delay.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/D_ff_arb_delay.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module D_FF
+
+Top level modules:
+	D_FF
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/add_control.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/add_control.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module add_control
+
+Top level modules:
+	add_control
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_add/full_adder.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_add/full_adder.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/four_bits_parallel_adder.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/four_bits_parallel_adder.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module four_bits_parallel_adder
+
+Top level modules:
+	four_bits_parallel_adder
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/full_adder.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/full_adder.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/SDVM_v2.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/SDVM_v2.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module SDVM_v2_q
+-- Compiling module SDVM_v2_d
+
+Top level modules:
+	SDVM_v2_q
+	SDVM_v2_d
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/D_ff_arb_delay.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/D_ff_arb_delay.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module D_FF
+
+Top level modules:
+	D_FF
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/full_adder.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/full_adder.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/four_bits_adder.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/four_bits_adder.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module four_bits_adder
+
+Top level modules:
+	four_bits_adder
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_add/add_ver_two.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_add/add_ver_two.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Online_adder_hd
+
+Top level modules:
+	Online_adder_hd
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/single_clk_ram_64bits.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/single_clk_ram_64bits.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module single_clk_ram_64bits
+
+Top level modules:
+	single_clk_ram_64bits
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/on_line_adder_block.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/on_line_adder_block.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module on_line_adder_block
+
+Top level modules:
+	on_line_adder_block
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/V_value_logic.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/V_value_logic.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module v_frac_logic
+-- Compiling module v_int_logic
+
+Top level modules:
+	v_frac_logic
+	v_int_logic
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/generate_CA_reg_ver_two.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/generate_CA_reg_ver_two.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module generate_CA_reg_v2
+
+Top level modules:
+	generate_CA_reg_v2
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/generate_q_reg.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/generate_q_reg.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module generate_q_reg
+
+Top level modules:
+	generate_q_reg
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/W_value_logic.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_div/W_value_logic.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module w_value_logic
+
+Top level modules:
+	w_value_logic
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/V_frac_bits_v2.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/V_frac_bits_v2.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module V_frac_bits_v2
+
+Top level modules:
+	V_frac_bits_v2
+
+} {} {}} /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/SDVM_v2.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/Newton/src_newton/src_mult/SDVM_v2.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module SDVM_v2
+
+Top level modules:
+	SDVM_v2
+
+} {} {}}
